@@ -1,5 +1,5 @@
 1- Anket yanıtlama
 2- Video izleme
-3- Video paylaşma
-4- Canlı yayın yapabilme
-5- Yorum yapabilme
+3- Canlı yayın yapabilme
+4- Yorum yapabilme
+
