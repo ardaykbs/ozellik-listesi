@@ -2,4 +2,4 @@
 2- Video izleme
 3- Canlı yayın yapabilme
 4- Yorum yapabilme
-
+5- Üye olma
